@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IS_Project01</string>
+    <string name="writeId">아이디를 입력해주새요</string>
+    <string name="writePw">비밀번호를 입력해주새요</string>
+    <string name="writePw2">비밀번호를 다시 입력해주세요</string>
+    <string name="writeName">이름을 입력해주새요</string>
+    <string name="signUp">가입완료</string>
+</resources>
